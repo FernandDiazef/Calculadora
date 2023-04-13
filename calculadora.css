@@ -1,0 +1,37 @@
+/* ajuste al body */
+body{
+    margin-top: 5em;
+    background-color: antiquewhite;
+}
+
+/* ajuste de botones */
+.boton{
+    width: 6em;
+    height: 5em;
+    margin-bottom: 5px;
+    background-color: skyblue;
+    border-radius: 15%;
+}
+/* hover de botones */
+.boton:hover {
+    background-color:darkslateblue ;
+    color: white;
+}
+
+/* contenedor de botones */
+.contenedor{
+    position: relative;
+    left: 35%;
+    width: 20.8em;
+    height: auto;
+    border: black solid 2px;
+    background-color:darkslategrey;
+    padding: 5px;
+}
+
+/* marcador de numeros ingresados */
+.mostrar{
+ 
+    color: white; 
+    text-align: center;
+}
